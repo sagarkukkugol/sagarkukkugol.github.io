@@ -6,8 +6,6 @@ Welcome to my personal portfolio.
 
 This website showcases my **projects, technical skills, education, internship experience, certificates, resume, and ways to connect with me.**
 
-🌐 **Live Portfolio:**  
-https://sagarkukkugol.github.io
 
 ---
 
@@ -107,13 +105,7 @@ Bengaluru, India
 
 ---
 
-## 📄 Resume
 
-My resume is available directly from my portfolio.
-
-👉 **[View Portfolio](https://sagarkukkugol.github.io)**
-
----
 
 ## 🔗 Connect With Me
 
@@ -126,8 +118,6 @@ https://www.linkedin.com/in/sagar-kukkugol/
 🐙 **GitHub:**  
 https://github.com/sagarkukkugol
 
-🌐 **Portfolio:**  
-https://sagarkukkugol.github.io
 
 📍 **Bengaluru, India**
 
